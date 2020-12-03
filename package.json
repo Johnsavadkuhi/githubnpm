@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "<script>alert(2)</script>"
+  "description": "<a href=javascript:alert(3)>the best thing </a>"
 }
