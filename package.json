@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "<script>alert(2)</script>"
 }
