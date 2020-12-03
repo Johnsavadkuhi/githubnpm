@@ -1,0 +1,15 @@
+{
+  "name": "@johnsavadkuhi/githubnpm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": {
+    "url": "git://github.com/johnsavadkuhi/githubnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
